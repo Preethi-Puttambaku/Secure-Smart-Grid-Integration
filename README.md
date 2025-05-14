@@ -32,3 +32,8 @@ anomaly detection and built a dynamic dashboard for visualizing power usage and 
     </tr>
   <tr>
     <td align="center">Preethi Puttambaku</td>
+    <td align="center">Karthika Panga</td>
+    <td align="center">Lakshmi Tulasi</td>
+    <td align="center"></td>
+    </tr>
+</table>
