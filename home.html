@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smart Grid Monitoring</title>
+    <link rel="stylesheet" href="home.css
+    ">
+</head>
+<body>
+    <header>
+        <h1>Smart Grid Monitoring Dashboard</h1>
+    </header>
+    <section class="grid-container">
+        <div class="grid-item">
+            <h2>Power Consumption</h2>
+            <p>Current Usage: <span id="power-usage">50 kW</span></p>
+        </div>
+        <div class="grid-item">
+            <h2>Renewable Energy</h2>
+            <p>Solar: <span id="solar-power">20 kW</span></p>
+            <p>Wind: <span id="wind-power">15 kW</span></p>
+        </div>
+        <div class="grid-item">
+            <h2>Grid Status</h2>
+            <p>Status: <span id="grid-status">Stable</span></p>
+        </div>
+    </section>
+    <script>
+        // Simulated real-time updates
+        setInterval(() => {
+            document.getElementById("power-usage").innerText = Math.floor(Math.random() * 100) + " kW";
+            document.getElementById("solar-power").innerText = Math.floor(Math.random() * 50) + " kW";
+            document.getElementById("wind-power").innerText = Math.floor(Math.random() * 50) + " kW";
+            document.getElementById("grid-status").innerText = ["Stable", "Warning", "Critical"][Math.floor(Math.random() * 3)];
+        }, 3000);
+    </script>
+</body>
+</html>
