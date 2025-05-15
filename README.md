@@ -28,7 +28,7 @@ anomaly detection and built a dynamic dashboard for visualizing power usage and 
   <tr>
     <td align="center"><a href="https://github.com/Preethi-Puttambaku">@Preethi-Puttambaku</a></td>
     <td align="center"><a href="https://github.com/Karthikapanga">@Karthikapanga</a></td>
-    <td align="center"><a href="https://github.com/">@</a></td>
+    <td align="center"><a href="https://github.com/">@Tulasikanneganti</a></td>
     </tr>
   <tr>
     <td align="center">Preethi Puttambaku</td>
