@@ -30,11 +30,10 @@ anomaly detection and built a dynamic dashboard for visualizing power usage and 
     <td align="center"><a href="https://github.com/Karthikapanga">@Karthikapanga</a></td>
     <td align="center"><a href="https://github.com/">@Tulasikanneganti</a></td>
     </tr>
-  
+</tr>
     <td align="center">Preethi Puttambaku</td>
     <td align="center">Karthika Panga</td>
     <td align="center">Lakshmi Tulasi</td>
     <td align="center"></td>
     </tr>
 </table>
-</tr>
