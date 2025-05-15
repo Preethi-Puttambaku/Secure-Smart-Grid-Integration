@@ -37,3 +37,4 @@ anomaly detection and built a dynamic dashboard for visualizing power usage and 
     <td align="center"></td>
     </tr>
 </table>
+</tr>
